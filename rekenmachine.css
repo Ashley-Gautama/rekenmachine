@@ -1,0 +1,67 @@
+#container{
+display:flex;
+flex-flow:row wrap;
+background-color:grey;
+border: 6px solid black;
+width:30%;
+}
+
+#containerdisplay1{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#display{
+background-color:pink;
+font-size:48px;
+text-align: right;
+width:83%;
+overflow:hidden;
+}
+
+#containerdisplay2{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#containerdisplay3{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#containerdisplay4{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#containerdisplay5{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#containerdisplay6{
+flex-flow: row wrap;
+margin:20px 0px 20px 0px;
+text-align:center;
+width:100%;
+}
+
+#total{
+width:83%;
+height:100%;
+}
+
+button{
+font-size:48px;
+width:20%;
+}
